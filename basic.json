@@ -1,0 +1,98 @@
+[
+  {
+    "id": "austenfoxriggs",
+    "content": "<a href='images/austenriggssmall.jpg' data-lightbox='image' data-title='1908-1940: Austen Fox Riggs, MD, developed his own system of treatment based on talk therapy combined with a structured routine of daily activities that emphasized a balance between work, play, rest and exercise. He founded the “Stockbridge Institute for the Psychoneuroses” (renamed “The Austen Riggs Foundation” in 1919).<br> <a href=http://arclibrary.staging.wpengine.com/austen-fox-riggs-md/ target=%27%27blank%27%27>Read more...</a>'>Austen Fox Riggs</a>",
+    "start": "1908",
+    "end": "1940",
+    "className": "people"
+  },
+ {
+    "id": "lunt",
+    "content": "<a href='images/lunt.jpg' data-lightbox='image' data-title='1920-1929: Lawrence K. Lunt, MD, served for nine years as a psychiatrist and occupational therapist at the Austen Riggs Foundation, Inc.<br> <a href=http://arclibrary.staging.wpengine.com/lawrence-lunt-md/ target=%27%27blank%27%27>Read more...</a>'>Lawrence K. Lunt, MD</a>",
+    "start": "1920",
+    "className": "people"
+  }, 
+   {
+    "id": "king",
+    "content": "<a href='images/king.jpg' data-lightbox='image' data-title='1924-1949: Miss Anna King worked as a psychiatric social worker and the eventual Director of the Riggs Clinic in Pittsfield, MA for twenty-five years.<br> <a href=http://arclibrary.staging.wpengine.com/anna-king/ target=%27%27blank%27%27>Read more...</a>'>Anna King</a>",
+    "start": "1924",
+    "end": "1949",
+    "className": "people"
+  },
+{
+    "id": "newsweek",
+    "content": "<a href='images/media.jpg' data-lightbox='image' data-title='1953: Newsweek Magazine published an article in its Medicine section on the Austen Riggs Center entitled \"<i>Riggs: A Winning Fight on Nervous Breakdowns</i>\".<br> <a href=http://arclibrary.staging.wpengine.com/austen-fox-riggs-md/ target=%27%27blank%27%27>Read more...</a>'>Newsweek Magazine</a>",
+    "start": "1953",
+    "className": "arts"
+  },
+
+    {
+    "id": "brenman",
+    "content": "<a href='images/brenman-gibson.jpg' data-lightbox='image' data-title='1948-1977: Margaret Brenman-Gibson, PhD, was a senior staff psychologist at Austen Riggs from 1948 to 1977, and later returned to the Center as an Erikson Scholar in 1997 to work on a book project.<br> <a href=http://arclibrary.staging.wpengine.com/brenman-gibson-phd/ target=%27%27blank%27%27>Read more...</a>'>Margaret Brenman-Gibson, PhD</a>",
+    "start": "1948",
+    "end": "1977",
+    "className": "people"
+  },
+   {
+    "id": "anderegg",
+    "content": "<a href='images/anderegg.jpg' data-lightbox='image' data-title='1985-1989: David Anderegg, PhD, was a postdoctoral fellow at Austen Riggs Center. Subsequently, Dr. Anderegg went on to become an experienced psychotherapist and college professor, with an active interest in professional and popular writing.<br> <a href=http://arclibrary.staging.wpengine.com/david-anderegg-phd/ target=%27%27blank%27%27>Read more...</a>'>David Anderegg, PhD</a>",
+    "start": "1985",
+    "className": "people"
+  },
+  {
+    "id": "aronoff",
+    "content": "<a href='images/aronoff.jpg' data-lightbox='image' data-title='1984-1994: Dr. Aronoff became the first local person accepted for the post-doctoral internship at the Austen Riggs Center, 1984-1988, and served on the Riggs clinical staff from 1989-1994.<br> <a href=http://arclibrary.staging.wpengine.com/jonathan-r-aronoff-phd/ target=%27%27blank%27%27>Read more...</a>'>Jonathan R. Aronoff</a>",
+    "start": "1984",
+    "end": "1994",
+    "className": "people"
+  },
+  {
+    "id": "purintanhouse",
+    "content": "<a href='images/purintonhouse-small.jpg' data-lightbox='image' data-title='1914: Purchase of Purintan House. Patients resided as paying guests in this building until 1940 when the house was converted to medical offices.'>Purintan House</a>",
+    "start": "1915",
+    "className": "buildings"
+  },
+  {
+    "id": "charter",
+    "content": "<a href='images/events.jpg' data-lightbox='image' data-title='1920: Founding Charter for the Austen Riggs Foundation: The Center was originally named the Stockbridge Institute for the Study and Treatment of the Psychoneuroses.'>Founding Charter for the Austen Riggs Foundation</a>",
+    "start": "1920",
+    "className": "events"
+  },
+  {
+    "id": "klein",
+    "content": "<a href='images/community.jpg' data-lightbox='image' data-title='1919-1935: Dr. Alvin W. Klein was a staff clinician at Riggs and served as the Clerk of the original Foundation Trustee Board.'>Alvin W. Klein, MD</a>",
+    "start": "1919",
+    "end": "1935",
+    "className": "people"
+  },
+    {
+    "id": "millet",
+    "content": "<a href='images/community.jpg' data-lightbox='image' data-title='1923-1930: Dr. John A. P. Millet was a staff clinician at Riggs and, subsequently, went on to become the founder of Silver Hill Hospital, New Canaan Ct in 1931.'>John A.P. Millet, MD</a>",
+    "start": "1923",
+    "className": "people"
+  },
+      {
+    "id": "brush",
+    "content": "<a href='images/community.jpg' data-lightbox='image' data-title='1936-1937: Dr. A. Louise Brush received her medical degree from the Columbia University College of Physicians and Surgeons and practiced psychiatry at the Austen Fox Riggs Foundation before later going on to postgraduate work at the Columbia University Neurological Institute.'>A. Louise Brush, MD</a>",
+    "start": "1936",
+    "className": "people"
+  },
+  {
+    "id": "institute",
+    "content": "<a href='images/events.jpg' data-lightbox='image' data-title='Founding of Stockbridge Institute for the Study and Treatment of Psychoneurosis (later renamed Austen Riggs Foundation, Inc.) Located at The Knoll on Main Street.'>Founding of Stockbridge Institute</a>",
+    "start": "1919",
+    "className": "events"
+  },
+  {
+    "id": "innopens",
+    "content": "<a href='images/foundation-inn_1934.jpg' data-lightbox='image' data-title='1930: Purchase of Foundation Inn. Formerly the Caldwell House, also the site of the Jonathan Edward homestead in 1745, the Foundation Inn (c.1890) opened as a residence to patients in 1930.<br><a href=http://arclibrary.staging.wpengine.com/foundation-inn/ target=%27%27blank%27%27>Read more...</a>'>Foundation Inn Opens</a>",
+    "start": "1930",
+    "className": "events"
+  },
+    {
+    "id": "purchasemob",
+    "content": "<a href='images/events.jpg' data-lightbox='image' data-title='1954: Whitman Manor, later rennovated and re-opened as the ARC Medical Office Building (MOB) and The Elms purchased by Austen Riggs Center.<br><a href=http://arclibrary.staging.wpengine.com/medical0ffice-building-mob/ target=%27%27blank%27%27>Read more...</a>'>Purchase of MOB and Elms</a>",
+    "start": "1954",
+    "className": "events"
+  }
+]
