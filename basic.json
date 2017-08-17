@@ -6,6 +6,13 @@
     "end": "1940",
     "className": "people"
   },
+  {
+    "id": "bahnson",
+    "content": "<a href='images/bahnson.jpg' data-lightbox='image' data-title='1927-2015: William F. Bahnson, MD, was a Fellow in Psychiatry at the Austen Riggs Center from 1966-1968, and then joined the Austen Riggs staff from 1968 to 1979.<br> <a href=http://arclibrary.staging.wpengine.com/william-f-bahnson-md/ target=%27%27blank%27%27>Read more...</a>'>William F. Bahnson</a>",
+    "start": "1968",
+    "end": "1979",
+    "className": "people"
+  },
  {
     "id": "lunt",
     "content": "<a href='images/lunt.jpg' data-lightbox='image' data-title='1920-1929: Lawrence K. Lunt, MD, served for nine years as a psychiatrist and occupational therapist at the Austen Riggs Foundation, Inc.<br> <a href=http://arclibrary.staging.wpengine.com/lawrence-lunt-md/ target=%27%27blank%27%27>Read more...</a>'>Lawrence K. Lunt, MD</a>",
